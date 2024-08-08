@@ -73,7 +73,7 @@
 
 /*** Navbar ***/
 .top-bar {
-    height: 120px;
+    height: 140px;
     padding: 0 4rem;
 }
 
@@ -138,8 +138,8 @@
     .wp {
         width: 64px;
         height: 38px;
-    
     }
+
 }
 
 @media (min-width: 992px) {
